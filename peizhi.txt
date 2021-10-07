@@ -1,0 +1,3 @@
+npm i -D webpack webpack-cli webpack-dev-server typescript ts-loader clean-webpack-plugin html-webpack-plugin
+npm i -D @babel/core @babel/preset-env babel-loader core-js
+npm i -D less less-loader css-loader style-loader
